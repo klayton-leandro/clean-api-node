@@ -2,10 +2,10 @@
 ---
 
 ## Arquitetura
-[![N|Solid](https://raw.githubusercontent.com/klayton-leandro/clean-api-node/feat/login/images/archeture.png)](https://www.linkedin.com/in/klayton-leandro/)
+[![N|Solid](https://raw.githubusercontent.com/klayton-leandro/clean-api-node/master/images/archeture.png)](https://www.linkedin.com/in/klayton-leandro/)
 
 ## Testes
-[![N|Solid](https://raw.githubusercontent.com/klayton-leandro/clean-api-node/feat/login/images/tests.png)](https://www.linkedin.com/in/klayton-leandro/)
+[![N|Solid](https://raw.githubusercontent.com/klayton-leandro/clean-api-node/master/images/tests.png)](https://www.linkedin.com/in/klayton-leandro/)
 [![N|Solid](https://raw.githubusercontent.com/klayton-leandro/clean-api-node/master/images/table.png)](https://www.linkedin.com/in/klayton-leandro/)
 
 [![Build Status](https://travis-ci.com/klayton-leandro/clean-api-node.svg?branch=master)](https://travis-ci.com/klayton-leandro/clean-api-node)
