@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+globalConfig.json
+.DS_Store
+data
+!src/data
+src/main/config/env.ts
